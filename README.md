@@ -21,8 +21,8 @@ yasnippet-snippets for emacs.
 ## Usage
 
 ```elisp
-  (use-package custom-yasnippet-snippets
-  :quelpa (yasnippet-snippets :fetcher github
+  (use-package luismayta-snippets
+  :quelpa (luismayta-snippets :fetcher github
             :repo "luismayta/yasnippet-snippets")
   :ensure t)
 ```
